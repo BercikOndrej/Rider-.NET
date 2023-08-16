@@ -1,0 +1,83 @@
+@model BlogArticle?
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+@{
+    string content;
+    string title;
+    bool isEditing;
+    if (Model != null) {
+        content = Model.Content;
+        title = Model.Title;
+        isEditing = true;
+    }
+    else {
+        content = "";
+        title = "";
+        isEditing = false;
+    }
+}
+
+
+@if (isEditing) {
+    <h2>Editing article</h2>
+    <form id="editForm" method="post" action="EditArticle">
+        <div class="form-floating mb-3">
+            <input type="number" name="id" class="form-control" id="floatingIdInput" value="@Model.Id" disabled="disabled">
+            <label for="floatingIdInput">Id</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" name="title" class="form-control"
+                   id="floatingTitleInput" placeholder="Write your title..." value="@title">
+            <label for="floatingTitleInput">Title</label>
+        </div>
+        <div class="form-floating">
+            <textarea class="form-control" name="content" type="text"
+                    placeholder="Write your content..." id="floatingContentInput" style="height: 400px">
+                @content
+            </textarea>
+            
+            <label for="floatingContentInput">Content</label>
+        </div>
+        <input type="submit" value="Edit" class="btn-primary btn float-end mt-2"/>
+    </form>
+}
+else {
+    <h2>Adding article</h2>
+    <form id="saveForm" method="post" action="SaveArticle">
+        <div class="form-floating mb-3">
+            <input type="text" name="title" class="form-control"
+                   id="floatingTitleInput" placeholder="Write your title..." value="@title">
+            <label for="floatingTitleInput">Title</label>
+        </div>
+        <div class="form-floating">
+            <textarea class="form-control" name="content" type="text" placeholder="Write your content..."
+                    id="floatingContentInput" style="height: 400px">
+                @content
+            </textarea>
+            <label for="floatingContentInput">Content</label>
+        </div>
+        <input type="submit" value="Save" class="btn-primary btn float-end mt-2"/>
+    </form>
+}
+
+@* Musel jsem změnit submt metodu, jelikož defaultní submit generocal špatnou Url adresu pro danou akci ->
+ vkládal před akci EitArticle i ArticleForm *@
+<script>
+    var editForm = document.getElementById("editForm")
+    editForm.addEventListener('submit', function (event) {
+        event.preventDefault()
+        
+        var id = document.getElementById("floatingIdInput").value
+        var newTitle = document.getElementById("floatingTitleInput").value
+        var newContent = document.getElementById("floatingContentInput").value
+
+        location.href= "@Url.Action("EditArticle", "Article")/?id=" + id + "&title=" + newTitle + "&content=" + newContent  
+    })
+</script>
+
+
+
+

@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=09d3dbdd_002Dbb37_002D4630_002Dbe62_002D291b370990c7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BiggestValue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::69F799F4-EAB8-B479-65F8-0F0E15FE510E::net6.0::Tests.UnitTest1.BiggestValue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2dc0eb92_002Dc278_002D4010_002Db9d7_002D52db41adc5c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BiggestValue #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::69F799F4-EAB8-B479-65F8-0F0E15FE510E::net6.0::Ukol02.UnitTests.UnitTest1.IsPowOfTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a06ec37c_002D7d2c_002D4ff8_002D8d57_002D901a1b1bfbae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BiggestValue #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::69F799F4-EAB8-B479-65F8-0F0E15FE510E::net6.0::Ukol02.UnitTests.UnitTest1.IsPowOfTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

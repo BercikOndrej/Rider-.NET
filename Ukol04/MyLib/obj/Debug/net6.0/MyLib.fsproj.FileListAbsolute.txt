@@ -1,0 +1,11 @@
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/bin/Debug/net6.0/MyLib.deps.json
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/bin/Debug/net6.0/MyLib.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/bin/Debug/net6.0/MyLib.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/bin/Debug/net6.0/MyLib.xml
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/obj/Debug/net6.0/MyLib.fsproj.AssemblyReference.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/obj/Debug/net6.0/MyLib.AssemblyInfoInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/obj/Debug/net6.0/MyLib.AssemblyInfo.fs
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/obj/Debug/net6.0/MyLib.fsproj.CoreCompileInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/obj/Debug/net6.0/MyLib.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/obj/Debug/net6.0/MyLib.xml
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/obj/Debug/net6.0/MyLib.pdb

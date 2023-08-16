@@ -1,0 +1,45 @@
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/bin/Debug/net6.0/Ukol01
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/bin/Debug/net6.0/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/bin/Debug/net6.0/Ukol01.pdb
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/Ukol01.csproj.AssemblyReference.cache
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/Ukol01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/Ukol01.AssemblyInfoInputs.cache
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/Ukol01.AssemblyInfo.cs
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/Ukol01.csproj.CoreCompileInputs.cache
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/refint/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/AINF - Vývoj software/1. Ročník/1. Semestr/Platforma .NET/Úkoly/Ukol01/obj/Debug/net6.0/Ukol01.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/bin/Debug/net6.0/Ukol01
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/bin/Debug/net6.0/Ukol01.deps.json
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/bin/Debug/net6.0/Ukol01.runtimeconfig.json
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/bin/Debug/net6.0/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/bin/Debug/net6.0/Ukol01.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.csproj.AssemblyReference.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.AssemblyInfoInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.AssemblyInfo.cs
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.csproj.CoreCompileInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.csproj.CopyComplete
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/refint/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/Ukol01.genruntimeconfig.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/platforma .NET/Ukol01/obj/Debug/net6.0/ref/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/bin/Debug/net6.0/Ukol01
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/bin/Debug/net6.0/Ukol01.deps.json
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/bin/Debug/net6.0/Ukol01.runtimeconfig.json
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/bin/Debug/net6.0/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/bin/Debug/net6.0/Ukol01.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.csproj.AssemblyReference.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.AssemblyInfoInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.AssemblyInfo.cs
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.csproj.CoreCompileInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.csproj.CopyComplete
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/refint/Ukol01.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/Ukol01.genruntimeconfig.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol01/obj/Debug/net6.0/ref/Ukol01.dll

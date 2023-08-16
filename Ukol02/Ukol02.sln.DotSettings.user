@@ -1,0 +1,75 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=09e6bff7_002D1a82_002D45c3_002D9020_002D2dab17611415/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.IsPowOfTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29329530_002Dd896_002D4003_002D97c9_002D2248d17b4dcb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53cf7c71_002D53b6_002D4300_002Db70d_002Dfbdde17bcfb9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SetRemoveTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetRemoveTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetContainsTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.MaxItemTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.IsPowOfTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetSingleAddTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetMultipleAddTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetSizeTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetSizeAfterRemoveTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetSizeAfterAddTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ae9446c_002Df13d_002D4167_002D898d_002D8cd26c2a0187/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="biggestValue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Tests.Tests.biggestValue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b38d140f_002D5711_002D4dbe_002D8797_002Dd3b2efc69050/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="biggestValue #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F4A5B4AB-33C2-49A2-89E0-C860436DDC4B::net6.0::Tests.Tests.biggestValue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4e90363_002D1b07_002D44f1_002Dbb1c_002D916121958bf4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DecToBinTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b88befef_002Da19e_002D4467_002D8777_002D2659d8e37896/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DecToBinTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.DecToBinTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetContainsTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Ukol02.UnitTests.UnitTest1.EmptySetAddTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Ukol02.UnitTests.UnitTest1.EmptySetMultipleAddTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c245e7c3_002D6e17_002D43aa_002D903d_002D7def0195d36f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SetRemoveTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetRemoveTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d8958a90_002D3b1b_002D4aad_002Da787_002D1be652734be9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SetRemoveTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetRemoveTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Ukol02.UnitTests.UnitTest1.IntersectTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Ukol02.UnitTests.UnitTest1.IntersectEmptySetTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Ukol02.UnitTests.UnitTest1.SubtractEmptySetTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Ukol02.UnitTests.UnitTest1.IsSubsetTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetContainsTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=df1c15ac_002Dd97c_002D495d_002D89f1_002De5f922d9da19/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SetSizeAfterAddTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SetSizeAfterAddTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.UnionTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.IntersectTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.SubtractTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC19A8DD-C5F0-404E-8AA2-7E13923903C1::net6.0::Ukol02.UnitTests.UnitTest1.IsSubsetTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3ebdd65_002D8a29_002D4cad_002Db6e8_002Df4d0ce9f2f01/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="biggestValue #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::8C8A8AA9-2163-4684-A960-019FCF15CB87::net6.0::Tests.Tests.biggestValue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

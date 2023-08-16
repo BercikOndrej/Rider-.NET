@@ -1,0 +1,56 @@
+@model ICollection<BlogArticle>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+@* Definováni funkcí *@
+@functions {
+
+    void DisplayBlogItem(BlogArticle article) {
+        <li class="list-group-item">
+            <div class="ms-2 me-auto">
+                <h3 class="mb-0">@article.Title </h3>
+                <span class="text-secondary">
+                     @{
+                         string result = $"@{article.Author.BlogNickname}";
+                     }
+                     @result
+                </span>
+                <p class="mb-0 mt-3">
+                    @{
+                        string content;
+                        if (article.Content.Length < 500) {
+                            content = $"{article.Content} ";
+                        }
+                        else {
+                            content = $"{article.Content.Substring(0, 500)}... ";
+                        }
+                    }
+                    @content 
+                    <a class="text-decoration-none" href="@Url.Action("Index", "Article")/?id=@article.Id">
+                        see more
+                    </a>
+
+                </p>
+                <div class="d-flex flex-row-reverse">
+                    <span class="badge bg-secondary">
+                        @{
+                            string time = article.DateTime.ToString("dd/MM/yyyy");
+                        }
+                        @time
+                    </span>
+                </div>
+            </div>
+        </li>
+    }
+
+}
+<h2 class="text-center">All articles</h2>
+<ul class="list-group-flush mt-5">
+    @foreach (BlogArticle article in Model) {
+        DisplayBlogItem(article);
+    }
+</ul>
+

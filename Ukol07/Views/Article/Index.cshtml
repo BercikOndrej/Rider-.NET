@@ -1,0 +1,118 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model BlogArticle
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+@functions {
+
+    void DisplayComment(Comment comm) {
+        <li class="list-group-item">
+            <div class="d-flex gap-3">
+                <span>
+                    @{
+                        string result = $"@{comm.Author.BlogNickname}";
+                    }
+                    @result
+                </span>
+                
+                <span class="ms-auto text-secondary align-self-center">
+                    @{
+                        string time = comm.DateTime.ToString("dd/MM/yyyy");
+                    }
+                    @time
+                </span>
+                
+                @if (ViewBag.loggedUserNickname == comm.Author.BlogNickname) {
+                    <button class="btn btn-danger"
+                            onclick="location.href=
+                            '@Url.Action(
+                                 "DeleteCommentFromArticle",
+                                 "Article",
+                                 new { commentId = comm.Id, articleId = comm.RelevantArticle.Id }
+                            )'">
+                        Delete
+                    </button>
+                }
+
+            </div>
+            <p class="mt-3"> @comm.Content</p>
+
+        </li>
+    }
+
+}
+
+@if (Model != null) {
+    <div class="container">
+        <h2 class="mb-0">@Model.Title</h2>
+        <span class="text-secondary">
+            @{
+                string result = $"@{Model.Author.BlogNickname}";
+            }
+            @result
+        </span>    
+        <p class="mt-3">
+            @Model.Content
+        </p>
+        <div class="d-flex flex-row-reverse">
+            <span class="badge bg-secondary">
+                @{
+                    string time = Model.DateTime.ToString("dd/MM/yyyy");
+                }
+                @time
+            </span>
+        </div>
+        <i class="fa fa-comment"></i>
+        <span class="mb-0 mt-3">Comments</span>
+        <div class="mt-0 pt-0 d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-1 border-bottom"></div>
+
+        @* Seznam komentářu *@
+        @if (Model.Comments.Count != 0) {
+            <ul class="list-group-flush">
+                @foreach (Comment comm in Model.Comments) {
+                    DisplayComment(comm);
+                }
+            </ul>
+        }
+        else {
+            <span class="text-secondary ms-5"> No comments</span>
+        }
+
+        <div class="mt-0 pt-0 d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-1 border-bottom"></div>
+        @* text area na přidání kopmentáře *@
+        <div class="mb-5">
+            <form id="addCommentForm">
+                <label for="commentTextArea" class="form-label">Add comment</label>
+                <textarea class="form-control" id="commentTextArea" rows="3" placeholder="Write your comment..."></textarea>
+                <input type="submit" value="Comment" class="btn btn-primary float-end mt-2"/>
+            </form>
+        </div>
+    </div>
+}
+else {
+    <h2 class="text-center">Article not found.</h2>
+}
+@* Script, který obsluhuje odesílání nového komentáře a jeho vytvoření *@
+<script>
+    var form = document.getElementById("addCommentForm")
+    form.addEventListener('submit', function(event) {
+        event.preventDefault()
+        var content = document.getElementById("commentTextArea").value
+        location.href="@Url.Action("AddCommentToArticle","Article")/?articleId=@Model.Id&content=" + content
+    })    
+    
+</script>
+
+@* Případný alert *@
+@if (ViewBag.Alert != null) {
+    <script>
+        window.onload = function () {
+            alert("@ViewBag.Alert");
+        };
+    </script>
+}

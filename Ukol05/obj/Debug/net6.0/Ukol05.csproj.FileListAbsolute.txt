@@ -1,0 +1,15 @@
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/bin/Debug/net6.0/Ukol05
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/bin/Debug/net6.0/Ukol05.deps.json
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/bin/Debug/net6.0/Ukol05.runtimeconfig.json
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/bin/Debug/net6.0/Ukol05.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/bin/Debug/net6.0/Ukol05.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.csproj.AssemblyReference.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.AssemblyInfoInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.AssemblyInfo.cs
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.csproj.CoreCompileInputs.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/refint/Ukol05.dll
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.pdb
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/Ukol05.genruntimeconfig.cache
+/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol05/obj/Debug/net6.0/ref/Ukol05.dll

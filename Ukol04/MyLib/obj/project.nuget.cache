@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "45k9AaTrSC8xDX/G4eoiWsG2RVkamW8QdD9J9P92EOWPLa9DaZ8PYePH+xyWypJfzjcDHJ3PUYW8UJv1QEcnLQ==",
+  "success": true,
+  "projectFilePath": "/Users/ondrejbercik/School - IT UPOL/Rider/Ukoly .NET/Ukol04/MyLib/MyLib.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ondrejbercik/.nuget/packages/fsharp.core/6.0.6/fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
